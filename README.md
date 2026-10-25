@@ -1,4 +1,4 @@
-# Remix Ecommerce
+# Eyewear CMS
 
 Production ecommerce platform built with Remix, React, and TypeScript. Deployed on Vercel.
 
